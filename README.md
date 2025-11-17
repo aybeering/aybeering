@@ -1,50 +1,50 @@
-## 👋 Hi,I'm aybeeing — Graduate Researcher in AI for Science
+## 👋 Hi, I'm aybeeing — Graduate student in AI for Science
 
-I’m currently a graduate student at UCAS (Shanghai institute of Organic Chemistry，Chinese Academy of Sciences).
-at the interface of computational chemistry, machine learning, and molecular modeling.
+I’m currently a graduate student at UCAS (Shanghai Institute of Organic Chemistry, Chinese Academy of Sciences).
+My current research areas include graph neural networks, AI for chemistry, and energy-based models.
 
-I’m a researcher who enjoys building things. I tend to approach problems through implementation—writing small tools, automating workflows, and using code to make both scientific work and daily life more efficient.
-Beyond individual projects, I’m motivated by a broader question: how computational systems can evolve toward generality, and how scientific domains such as chemistry, physics, and materials can contribute conceptual building blocks for future AGI.
+My vision is to help accelerate the arrival of AGI and use technology to improve everyday life. I approach this from a scientific perspective—exploring AGI from first principles—while keeping a close eye on the latest advances and how to apply them in the real world.
 
-🧭 Research Interests
+I’m passionate about emerging technologies. Areas I focus on:
+
+- AI
+- Blockchain / Crypto
+- Agents
+
+## 🧭 Research Interests
 
 Molecular Representation Learning
-Graph neural networks, continuous-filter convolutions, Fourier- and wavefunction-inspired embeddings, multi-component graph structures.
+Graph neural networks, self-orthogonalizing attractor neural networks, energy-based models
 
 AI for Chemistry
 Predictive modeling of electronic structure (e.g., HOMO–LUMO gaps), electrolyte design, SEI interphase formation, reaction intermediates.
 
-Large Models in Scientific Workflows
-Automated literature structuring, scientific agents, domain-specific RAG, tool-augmented reasoning for chemistry.
 
-🔬 Ongoing Work
+## 🔬 Ongoing Work
 
 Graph Neural Network Pipelines for Molecular Properties
 Developing clean and reproducible pipelines combining RDKit, PyTorch Geometric, and Chemprop; conducting model ablation, hyperparameter tuning, and representation studies.
 
-Scientific Agent Systems
-Building agent workflows for reading, structuring, and analyzing arXiv papers; integrating long-context LLMs, citation extraction, and experimental reproducibility checks.
+Agent Development
+I’m currently excited about agent projects and am experimenting with building a multi-agent system that collaborates across multiple projects.
 
-SEI Chemistry & Electrolyte Modeling
-Reviewing mechanistic pathways in SEI formation, exploring data-driven reactivity prediction using energetic and electronic descriptors.
-
-🧰 Tools & Methods
+## 🧰 Tools & Methods
 
 Python, PyTorch, PyG, RDKit, Chemprop
 
 LLM/Agent frameworks: LangGraph, Dify, custom tool-use pipelines
 
-Data systems: YAML/JSON configs, scientific datasets (QM9, QM9-star, PCQM4Mv2, LIBE, MPcules)
+Data systems: scientific datasets (QM9, QM9-star, PCQM4Mv2, LIBE, MPcules)
 
 Computational chemistry fundamentals: basic DFT workflows, electronic structure descriptors, reaction network analysis
 
-📄 Writing & Documentation
+## 📄 Writing & Documentation
 
 My recent work includes literature reviews, structured reading notes, GNN derivations, and technical blog posts on molecular ML pipelines. I aim to make scientific computation more interpretable, reproducible, and accessible.
 
-🎯 Long-Term Direction
+## 🎯 Long-Term Direction
 
-I am broadly interested in how machine learning can serve as a methodological extension of theoretical chemistry, and in building systems that help researchers navigate data, models, and mechanistic hypotheses with greater clarity and speed.
+I aim to explore foundational deep learning architectures toward AGI. By mastering cutting-edge technologies, I hope to gain the freedom to explore technology-driven civilization.
 <!--
 **aybeering/aybeering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -59,3 +59,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
