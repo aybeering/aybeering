@@ -1,15 +1,13 @@
 I like change the world
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2012%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 70.0 kB Used in GitHub's Storage 
  > 
-> 🏆 345 Contributions in the Year 2026
+> 🏆 346 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -17,45 +15,6 @@ I like change the world
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-🌆 Daytime                958 commits         █████████████████░░░░░░░░   67.66 % 
-🌃 Evening                255 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   342 commits         ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Tuesday                  200 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Wednesday                263 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Thursday                 230 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Friday                   105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Saturday                 149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Sunday                   127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -73,5 +32,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aybeering/aybeering/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 20:13:48 UTC
+ Last Updated on 15/05/2026 20:00:34 UTC
 <!--END_SECTION:waka-->
