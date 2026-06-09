@@ -7,7 +7,7 @@ I like change the world
 
 **🐱 My GitHub Data** 
 
-> 📦 75.5 kB Used in GitHub's Storage 
+> 📦 75.6 kB Used in GitHub's Storage 
  > 
 > 🏆 366 Contributions in the Year 2026
  > 
@@ -44,16 +44,19 @@ Sunday                   137 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     1 min               ███████████████░░░░░░░░░░   59.09 % 
+Python                   0 secs              ██████████░░░░░░░░░░░░░░░   39.09 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          1 min               ███████████████░░░░░░░░░░   60.91 % 
+scripts                  0 secs              ██████████░░░░░░░░░░░░░░░   39.09 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -73,5 +76,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aybeering/aybeering/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2026 20:39:45 UTC
+ Last Updated on 09/06/2026 20:26:26 UTC
 <!--END_SECTION:waka-->
